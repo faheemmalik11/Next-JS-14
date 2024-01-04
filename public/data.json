@@ -1,0 +1,32 @@
+[
+  {
+    "email": "seller2@example.com",
+    "username": "seller",
+    "password": "123"
+  },
+  {
+    "email": "khalidfaheem417@gmail.com",
+    "username": "faheem",
+    "password": "1234"
+  },
+  {
+    "email": "khalidfaheem417@gmail.com",
+    "username": "faheem",
+    "password": "1234"
+  },
+  {
+    "email": "khalidfaheem417@gmail.com",
+    "username": "qwe",
+    "password": "123"
+  },
+  {
+    "email": "seller2@example.com",
+    "username": "aa",
+    "password": "123"
+  },
+  {
+    "email": "farooq.usman@datalatics.com",
+    "username": "usman",
+    "password": "123"
+  }
+]
