@@ -28,5 +28,20 @@
     "email": "farooq.usman@datalatics.com",
     "username": "usman",
     "password": "123"
+  },
+  {
+    "email": "test123@gmail.com",
+    "username": "wwwwwww",
+    "password": "wwwwww"
+  },
+  {
+    "email": "seller2@example.com",
+    "username": "aqee",
+    "password": "123"
+  },
+  {
+    "email": "seller2@example.com",
+    "username": "aqee",
+    "password": "123"
   }
 ]
